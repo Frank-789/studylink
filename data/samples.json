@@ -1,0 +1,214 @@
+{
+  "samples": [
+    {
+      "query": "机器学习",
+      "answer": "机器学习是人工智能的核心领域，通过算法让计算机从数据中学习模式并做出预测。核心概念包括监督学习（分类、回归）、无监督学习（聚类、降维）和深度学习（神经网络）。学习路径建议：1. 学习Python编程和数学基础；2. 掌握Scikit-learn等机器学习库；3. 实践Kaggle竞赛项目；4. 深入学习深度学习框架如TensorFlow/PyTorch。",
+      "concepts": ["监督学习", "无监督学习", "深度学习", "神经网络", "特征工程"],
+      "resources": [
+        {
+          "name": "吴恩达机器学习课程",
+          "type": "course",
+          "difficulty": "入门",
+          "duration": "60小时"
+        },
+        {
+          "name": "《Python机器学习》",
+          "type": "book",
+          "difficulty": "中级",
+          "duration": "40小时"
+        }
+      ],
+      "applications": ["图像识别", "自然语言处理", "推荐系统", "金融风控"],
+      "competitions": ["Kaggle入门竞赛", "天池机器学习大赛", "CCF大数据竞赛"]
+    },
+    {
+      "query": "Python编程",
+      "answer": "Python是一种高级编程语言，以简洁易读的语法和强大的生态系统著称。特点包括：动态类型、自动内存管理、丰富的标准库。应用领域：Web开发（Django/Flask）、数据分析（Pandas/NumPy）、人工智能（TensorFlow/PyTorch）、自动化脚本。学习路径：1. 基础语法和控制结构；2. 函数和面向对象编程；3. 常用库和框架；4. 项目实战和经验积累。",
+      "concepts": ["变量和数据类型", "控制结构", "函数", "面向对象", "异常处理"],
+      "resources": [
+        {
+          "name": "廖雪峰Python教程",
+          "type": "course",
+          "difficulty": "入门",
+          "duration": "50小时"
+        },
+        {
+          "name": "《流畅的Python》",
+          "type": "book",
+          "difficulty": "高级",
+          "duration": "80小时"
+        }
+      ],
+      "applications": ["Web开发", "数据分析", "自动化运维", "爬虫开发"],
+      "competitions": ["Python编程大赛", "全国大学生Python挑战赛"]
+    },
+    {
+      "query": "数学建模",
+      "answer": "数学建模是将实际问题抽象为数学模型并进行求解的过程。核心步骤：1. 问题分析与假设；2. 模型建立与求解；3. 结果分析与验证。常用模型：优化模型、微分方程模型、统计模型、图论模型。竞赛准备：1. 学习Matlab/Python数学库；2. 掌握LaTeX论文写作；3. 组队练习往届赛题；4. 培养创新思维和团队协作。",
+      "concepts": ["优化理论", "微分方程", "概率统计", "图论", "数值计算"],
+      "resources": [
+        {
+          "name": "全国大学生数学建模竞赛培训",
+          "type": "course",
+          "difficulty": "中级",
+          "duration": "100小时"
+        },
+        {
+          "name": "《数学建模算法与应用》",
+          "type": "book",
+          "difficulty": "高级",
+          "duration": "120小时"
+        }
+      ],
+      "applications": ["金融风险评估", "交通流量预测", "传染病模型", "资源优化配置"],
+      "competitions": ["全国大学生数学建模竞赛", "美赛（MCM/ICM）", "研究生数学建模竞赛"]
+    },
+    {
+      "query": "数据分析",
+      "answer": "数据分析是从数据中提取有价值信息的过程，包括数据清洗、探索性分析、建模和可视化。核心技能：1. 数据处理（Pandas/Numpy）；2. 数据可视化（Matplotlib/Seaborn）；3. 统计分析（SciPy/StatsModels）；4. 机器学习应用。工具链：Python/R语言、SQL数据库、Tableau/PowerBI可视化、Jupyter Notebook。职业路径：数据分析师→数据科学家→数据架构师。",
+      "concepts": ["数据清洗", "统计分析", "可视化", "假设检验", "相关性分析"],
+      "resources": [
+        {
+          "name": "Python数据分析实战",
+          "type": "course",
+          "difficulty": "中级",
+          "duration": "70小时"
+        },
+        {
+          "name": "《利用Python进行数据分析》",
+          "type": "book",
+          "difficulty": "中级",
+          "duration": "60小时"
+        }
+      ],
+      "applications": ["商业智能分析", "用户行为分析", "市场趋势预测", "运营优化"],
+      "competitions": ["数据分析挑战赛", "数据可视化大赛", "商业分析案例赛"]
+    },
+    {
+      "query": "人工智能",
+      "answer": "人工智能是研究、开发用于模拟、延伸和扩展人的智能的理论、方法、技术及应用系统的一门技术科学。主要分支：机器学习、计算机视觉、自然语言处理、机器人学、专家系统。技术栈：Python编程、深度学习框架（TensorFlow/PyTorch）、云计算平台（AWS/GCP/Azure）、大数据处理。学习建议：扎实的数学基础（线性代数、概率论、优化理论）+ 编程实践 + 项目经验。",
+      "concepts": ["机器学习", "深度学习", "计算机视觉", "自然语言处理", "强化学习"],
+      "resources": [
+        {
+          "name": "深度学习专项课程",
+          "type": "course",
+          "difficulty": "高级",
+          "duration": "150小时"
+        },
+        {
+          "name": "《人工智能：现代方法》",
+          "type": "book",
+          "difficulty": "高级",
+          "duration": "200小时"
+        }
+      ],
+      "applications": ["智能助手", "自动驾驶", "医疗影像诊断", "智能推荐", "智能制造"],
+      "competitions": ["人工智能创新大赛", "计算机视觉竞赛", "自然语言处理挑战赛"]
+    }
+  ],
+  "courses": [
+    {
+      "id": 1,
+      "title": "机器学习入门",
+      "university": "斯坦福大学",
+      "instructor": "吴恩达",
+      "duration": "11周",
+      "difficulty": "入门",
+      "rating": 4.9,
+      "students": 1200000,
+      "description": "经典的机器学习课程，涵盖监督学习、无监督学习、最佳实践等",
+      "url": "https://www.coursera.org/learn/machine-learning"
+    },
+    {
+      "id": 2,
+      "title": "Python数据结构",
+      "university": "密歇根大学",
+      "instructor": "Charles Severance",
+      "duration": "7周",
+      "difficulty": "入门",
+      "rating": 4.8,
+      "students": 850000,
+      "description": "学习Python编程基础和数据结构的经典课程",
+      "url": "https://www.coursera.org/learn/python-data"
+    },
+    {
+      "id": 3,
+      "title": "深度学习",
+      "university": "deeplearning.ai",
+      "instructor": "吴恩达",
+      "duration": "16周",
+      "difficulty": "中级",
+      "rating": 4.9,
+      "students": 950000,
+      "description": "深度学习专项课程，涵盖神经网络、CNN、RNN、Transformers等",
+      "url": "https://www.coursera.org/specializations/deep-learning"
+    }
+  ],
+  "competitions": [
+    {
+      "id": 1,
+      "title": "Kaggle入门竞赛",
+      "type": "机器学习",
+      "organization": "Kaggle",
+      "deadline": "2024-12-31",
+      "prize": "$25,000",
+      "difficulty": "入门",
+      "description": "泰坦尼克号生存预测，适合机器学习新手",
+      "url": "https://www.kaggle.com/c/titanic"
+    },
+    {
+      "id": 2,
+      "title": "全国大学生数学建模竞赛",
+      "type": "数学建模",
+      "organization": "中国工业与应用数学学会",
+      "deadline": "2024-09-15",
+      "prize": "国家级奖项",
+      "difficulty": "高级",
+      "description": "中国最具影响力的大学生数学建模竞赛",
+      "url": "https://www.mcm.edu.cn/"
+    },
+    {
+      "id": 3,
+      "title": "中国大学生计算机设计大赛",
+      "type": "软件开发",
+      "organization": "教育部高等学校计算机类专业教指委",
+      "deadline": "2024-06-30",
+      "prize": "国家级奖项",
+      "difficulty": "中级",
+      "description": "涵盖软件应用、人工智能、物联网等多个方向",
+      "url": "http://jsjds.blcu.edu.cn/"
+    }
+  ],
+  "careers": [
+    {
+      "id": 1,
+      "title": "机器学习工程师",
+      "company": "字节跳动",
+      "location": "北京",
+      "salary": "30-60k",
+      "experience": "1-3年",
+      "skills": ["Python", "TensorFlow", "机器学习", "数据分析"],
+      "description": "负责推荐算法研发和优化"
+    },
+    {
+      "id": 2,
+      "title": "数据分析师",
+      "company": "阿里巴巴",
+      "location": "杭州",
+      "salary": "20-40k",
+      "experience": "应届生",
+      "skills": ["SQL", "Python", "数据可视化", "统计分析"],
+      "description": "负责业务数据分析和决策支持"
+    },
+    {
+      "id": 3,
+      "title": "Python开发工程师",
+      "company": "腾讯",
+      "location": "深圳",
+      "salary": "25-45k",
+      "experience": "1-3年",
+      "skills": ["Python", "Django", "MySQL", "Linux"],
+      "description": "负责后端系统开发和维护"
+    }
+  ]
+}
